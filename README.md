@@ -1,2 +1,2 @@
-# Sales-Customer-Behaviour-Insights-Green-Cart-Ltd.
-This project analyze sales and user behaviour across region and product lines.
+## Project Overview
+This project analyzes sales performance and customer behaviour for Green Cart Ltd., an eco-friendly retail company. Using cleaned and merged sales, product, and customer datasets, the analysis identifies revenue trends, top-performing product categories, customer loyalty patterns, and delivery performance across regions. The insights support data-driven decisions to improve revenue growth, customer retention, and operational efficiency. A detailed analysis and recommendations are available in the attached PDF report.
